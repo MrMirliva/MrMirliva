@@ -16,7 +16,7 @@
 
 ## 🌟 Favorite Project
 
-### [Text-Based-Social-Madia](https://github.com/MrMirliva/Text-Based-Social-Madia)
+### [Text-Based-Social-Madia](https://github.com/DEU-CENG-CME2210-Group40/text-based-social-media)
 > A unique social media concept focused on pure text interactions.
 
 ---
