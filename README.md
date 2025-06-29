@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 💡 I love developing projects, especially as part of a big team.
-- 🛠️ Middle+ Level Java | Entry-level C#, Python, C, JavaScript
+- 🛠️ Middle+ Level Java | Entry-level SQL, C#, Python, C, JavaScript
 - 🚀 Interested in Entrepreneurship & Project Management
 - 🏗️ Always exploring the process of turning ideas into real, working systems.
 - 🌱 New around here — eager to learn, collaborate, and grow! 😄
