@@ -1,6 +1,6 @@
 # Hi there, I'm Abdullah Gündüz (aka Mirliva)! 👋
 
-**🎓 2nd Year Computer Engineering Student at Dokuz Eylül University**
+**🎓 3rd Year Computer Engineering Student at Dokuz Eylül University**
 
 ---
 
