@@ -14,10 +14,13 @@
 
 ---
 
-## 🌟 Favorite Project
+## 🌟 Favorite Projects
 
-### [Text-Based-Social-Madia](https://github.com/DEU-CENG-CME2210-Group40/text-based-social-media)
-> A unique social media concept focused on pure text interactions.
+### [Text Based Social Madia](https://github.com/DEU-CENG-CME2210-Group40/text-based-social-media)
+> A CLI-based monolithic social media system that models real-world application architecture using custom framework-like components such as MACRepository, MACModel, and ResponseEntity—all built without relying on any external frameworks.
+
+### [Evolutionary Tree Assignment](https://github.com/MrMirliva/evolutionary-tree-assigment)
+> A Java-based evolutionary tree system that loads species data from CSV files and provides features like traversal, searching, subtree printing, and common ancestor detection.
 
 ---
 
