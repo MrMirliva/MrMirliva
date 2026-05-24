@@ -30,7 +30,8 @@ I mainly used MySQL in classic single-database setups, while with PostgreSQL I e
 - built a framework-free social media application,
 - and created layered backends and microservice components using Spring Boot.
 
-Frontend is not my primary focus, but when needed, I developed projects using **HTML/CSS/JavaScript** and prepared a **React + TypeScript** demo for presentation purposes.
+Frontend is not my primary focus, but I have built projects with **HTML/CSS/JavaScript** and **React**.  
+I have designed modern **glassmorphism-based interfaces** (Pelesong) with complex state management, realtime simulations, and ambient visual effects, demonstrating deep understanding of UI/UX and CSS animations.
 
 Throughout my projects, I have taken on different roles:
 - sometimes shaping ideas as an analyst,
@@ -48,19 +49,39 @@ I usually prefer working in **small teams (2–4 people)** and enjoy thinking ab
 
 ## 🧠 Technical Profile
 
-- **Languages:** Java (primary), SQL, C, C#, Python, JavaScript  
-- **Backend:** Spring Boot, REST APIs, layered architecture, microservices  
-- **Architecture:** Monolithic systems, Microservices, API Gateway, Service Discovery  
-- **Databases:** PostgreSQL, MySQL  
-- **DevOps / Tools:** Docker, Docker Compose, Maven, Git  
-- **Frontend (basic):** HTML, CSS, JavaScript, React  
-- **Interests:** System design, clean architecture, domain modeling  
+**Languages (by depth):**
+- **Primary:** Java (production microservices, framework-free architecture, multi-year focus)
+- **Deep Proficiency:** SQL, C# (extensive manual implementation, structural understanding)
+- **Production Use:** JavaScript, Python, C (multiple projects, AI-assisted development)
+- **Cross-Paradigm Exploration:** Rust, Go, F#, Perl, COBOL, Common Lisp, Prolog, APL, Ruby (polyglot study from CME3402 assignment)
+
+**Backend:** Spring Boot, REST APIs, layered architecture, microservices  
+**Architecture:** Monolithic systems, Microservices, API Gateway, Service Discovery  
+**Databases:** PostgreSQL, MySQL  
+**Frontend:** HTML/CSS/JavaScript, React, Glassmorphism design, CSS animations  
+**Embedded Systems:** Arduino, ESP32, sensor integration, IoT systems  
+**DevOps / Tools:** Docker, Docker Compose, Maven, Git  
+**Interests:** System design, clean architecture, domain modeling, embedded systems
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔹 ShuBilet  
+### Project Overview
+
+| Project | Importance | Team | Primary Focus | Tech Stack |
+|---------|-----------|------|-----------------|------------|
+| **ShuBilet** | ⭐⭐⭐⭐⭐ | 3 people | Microservice Architecture, System Design | Java, Spring Boot, PostgreSQL, Docker |
+| **Scan and Print** | ⭐⭐⭐⭐⭐ | 4 people | IoT, Embedded Systems, Data Visualization | Arduino C, Python, ESP32, Matplotlib |
+| **Pelesong** | ⭐⭐⭐⭐ | 5 people | Frontend Design, UI/UX, CSS Animation | JavaScript, HTML/CSS, Glassmorphism |
+| **CME3402** | ⭐⭐⭐ | 3 people | Cross-Paradigm Programming | 11 Languages (Python, Rust, Go, F#, Perl, COBOL, Lisp, Prolog, APL, Ruby, JS) |
+| **Text-Based Social Media** | ⭐⭐⭐⭐ | 3 people | Layered Architecture, Framework Design | Java, SQL, Custom ORM |
+| **Evolutionary Tree** | ⭐⭐⭐ | 2 people | Data Structures, Algorithms | Java, CSV Processing |
+| **C Machine Learning** | ⭐⭐⭐ | 2 people | Multi-threading, ML Algorithms | C, Python, Sockets |
+
+---
+
+### 🔹 ShuBilet
 🔗 https://github.com/MrMirliva/shubilet  
 
 A **role-aware intercity ticketing platform** built with a **Spring Boot microservice architecture**.
@@ -72,6 +93,53 @@ A **role-aware intercity ticketing platform** built with a **Spring Boot microse
 - Docker Compose-based orchestration  
 
 This project was intentionally designed as an **architectural showcase**, focusing on service boundaries, layering, and communication rather than only features.
+
+---
+
+### 🔹 Scan and Print - 3D Scanner  
+🔗 https://github.com/MrMirliva/scan-and-print  
+
+An **open-source IoT-based 3D scanning system** combining embedded systems, robotics, and data visualization.
+
+- **Hardware Stack:** ESP32 microcontroller, servo motors, HC-SR04 ultrasonic sensors
+- **Firmware:** Arduino-based ESP32 controller with LCD feedback and motor automation
+- **Software:** Python data processing pipeline with coordinate transformation and visualization
+- **Architecture:** Two-phase calibration scanning, sensor fusion, spherical-to-Cartesian conversion
+- **Features:** Point cloud generation, surface reconstruction, realtime serial communication
+- **Team:** 4-person collaborative project
+
+This project bridges embedded systems and data processing, showcasing IoT system design and full hardware-software integration.
+
+---
+
+### 🔹 Pelesong - Atmosferik Sosyal Müzik Platformu  
+🔗 https://github.com/MrMirliva/pelesong  
+
+A **culturally-grounded social music platform prototype** showcasing UI/UX depth and atmospheric design.
+
+- **Architecture:** Pure client-side (HTML/CSS/JavaScript), no backend required
+- **Design System:** Glassmorphism, lo-fi aesthetic, neon underground palette
+- **Dual-Mode Interface:** Seamless switching between Social Mode (dynamic feed) and Listen Mode (discovery)
+- **Realtime Simulation:** Organic stats fluctuation, ambient toast notifications, floating particles
+- **Features:** Live spaces with chat, dynamic sound wave visualizer, reactive color ambient system
+- **Culture:** Turkish underground rap, Anadolu rock, and bedroom producer integration
+- **Documentation:** Comprehensive docs/ with architecture decisions, verification reports, and context guidelines
+
+A full-stack frontend project demonstrating animation expertise, complex state management, and design-driven development.
+
+---
+
+### 🔹 CME3402: Programming Languages Assignment  
+🔗 https://github.com/Ghost1461/CME3402-Assignment1  
+
+**Polyglot implementation** of Euclidean Distance across 11 programming languages and paradigms.
+
+- **Languages:** JavaScript, Rust, Go, Python, F#, Perl, COBOL, Common Lisp, Prolog, APL, Ruby
+- **Paradigms:** Imperative, Functional, Procedural, Logical, Array-Oriented, Object-Oriented
+- **Scope:** Demonstrating cross-paradigm literacy and deep understanding of language design concepts
+- **Focus:** Same algorithm implemented across vastly different programming models
+
+This project showcases breadth in programming language knowledge and ability to think algorithmically across different paradigms.
 
 ---
 
@@ -123,8 +191,8 @@ A **multi-threaded machine learning project in C** that serves predictions over 
 
 ## 📫 Contact
 
-- 📧 **Email:** justmirliva@gmail.com  
-- 💻 **GitHub:** https://github.com/MrMirliva  
+- 📧 **Email:** justmirliva@gmail.com, abdullah.gndz00@gmail.com  
+- 💻 **GitHub:** https://github.com/MrMirliva
 
 ---
 
